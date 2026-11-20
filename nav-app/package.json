@@ -61,7 +61,7 @@
     "@angular/compiler-cli": "^19.2.25",
     "@angular/language-service": "^19.2.25",
     "@playwright/test": "1.63.0",
-    "@types/jasmine": "^6.0.0",
+    "@types/jasmine": "^7.0.0",
     "@types/jasminewd2": "^2.0.8",
     "@types/node": "^22.19.17",
     "codelyzer": "^6.0.0",
